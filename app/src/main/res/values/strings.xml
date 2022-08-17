@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">African Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip">Skip</string>
+    <string name="continue_">Continue</string>
+    <string name="login">Login</string>
+    <string name="enter_ohne_message">Enter the phone number to continue to the application</string>
+    <string name="phone">Phone</string>
+    <string name="message_in_login">By clicking continue you agree to</string>
+    <string name="terms_and_use">User terms and policy</string>
+    <string name="start_using">Start using</string>
+    <string name="activate_phone_number">Activate phone number</string>
+    <string name="confirm_number">confirm number</string>
+    <string name="want_u_get_code">Didn\'t receive a code?</string>
+    <string name="resend">Resend</string>
+    <string name="we_have_sent_a_6_digit_activation_code_to_the_entered_phone_number">We have sent a 6-digit activation code to the entered phone number</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_the_required_information_to_complete_the_registration">Please enter the required information to complete the registration</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="birth_date">"Birthday "</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="type_account">Type account</string>
+    <string name="chat">Chat</string>
+    <string name="categories">Categories</string>
+    <string name="company">Company</string>
+    <string name="personal">Personal</string>
+    <string name="more">More</string>
+    <string name="common_and_near_to_you">Common and nea _to you</string>
+    <string name="home">Home</string>
+    <string name="my_orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="total_delivery_fee">Total delivery fee</string>
+    <string name="orders_count">Orders Count</string>
+    <string name="cart">Cart</string>
+
+
 </resources>
